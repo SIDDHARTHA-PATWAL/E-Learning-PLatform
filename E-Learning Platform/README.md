@@ -1,0 +1,2 @@
+# e-learn
+E-learn is a comprehensive e-learning platform developed with Express and MongoDB, designed to serve both students and instructors. It utilizes Mongoose for defining database schemas and incorporates a local authentication system using PassportJS and Bcrypt. The platform features an intuitive dashboard that displays different information based on user roles. Instructors have the ability to publish and manage courses and lessons, while students can enroll in courses and attend lessons.
